@@ -1,2 +1,2 @@
-# modern-marquee
-A modern day Marquee
+# modernMarquee
+A Modern Day Marquee
